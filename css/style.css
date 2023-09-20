@@ -1,6 +1,14 @@
-.wormparttwo {
-  display: block;
-  float: center;
-  border-radius: 1rem;
-  width: 20ch;
+img {
+width:100%;
+}
+
+body{
+  background-color: bisque;
+
+}
+
+#container {
+  max-width: 300px;
+  margin: 0 auto;
+
 }
