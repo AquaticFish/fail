@@ -1,5 +1,8 @@
 img {
 width:100%;
+border-radius: 12px;
+height: 214px;
+object-fit: cover;
 }
 
 body{
@@ -7,8 +10,28 @@ body{
 
 }
 
-#container {
+.container {
   max-width: 300px;
   margin: 0 auto;
+  
+  Margin-top: 20vh;
+}
+
+.card {
+  background-color: blue;
+  padding: 8px;
+
+  border-radius: 12px;
+  border:1px solid #cfcfcf
+}
+
+.tag {
+   padding: 4px 8px;
+   border: 1px solid #ffff;
+
+   border-radius: 50px;
+   font-weight: 600;
+   color: black;
 
 }
+
