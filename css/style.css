@@ -7,7 +7,6 @@ object-fit: cover;
 
 body{
   background-color: bisque;
-
 }
 
 .container {
@@ -40,6 +39,6 @@ body{
   font-weight: 600;
 
   margin-top: 16px;
-  
+
 }
 
